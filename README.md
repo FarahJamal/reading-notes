@@ -22,7 +22,11 @@
 - [ ] incompleted!.
 
 # github pages.
- you can simply doing this using 
+ you can simply doing this: 
+ 
+ * Go to the Settings top tab (and default Options left tab), 
+ * scroll down to Github Pages 
+ *  update the Source to using the /docs folder:
 
 ![](https://octodex.github.com/images/labtocat.png)
 
