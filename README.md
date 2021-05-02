@@ -29,7 +29,7 @@
  * scroll down to Github Pages 
  *  update the Source to using the /docs folder:
 
-I am dong :grin: :grin:
+I am done :grin: :grin:
 
 ![](https://github.com/FarahJamal/reading-notes/blob/main/Github-PNG.png)
 
