@@ -19,8 +19,8 @@
 
 
 ## This Task :
-- [x] Completly Done!.
-- [ ] incompleted!.
+- [ ] Completly Done!.
+- [x] incompleted!.
 
 # github pages.
  you can simply doing this: 
